@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}
+.card {
+    border-radius: 0.5rem;
+}
+.navbar-brand {
+    letter-spacing: 0.3px;
+}
+.table th {
+    font-weight: 600;
+    font-size: 0.875rem;
+}
+.progress {
+    border-radius: 4px;
+}
+code {
+    font-size: 0.85em;
+}
+.badge {
+    font-weight: 500;
+}
